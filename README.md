@@ -1,3 +1,5 @@
-# Proyecto de Desarrollo de Aplicaciones Móviles
+# Heath Zone (Proyecto de DAM)
 
-:D
+## Compilar
+
+Usa Android Studio, no te compliques la vida.
